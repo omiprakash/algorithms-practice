@@ -16,7 +16,7 @@ public class QuickSort {
         a[high] = temp;
     }
 
-    // function to return the pivot value whih=ch is at its correct sorted place
+    // function to return the pivot value which is at its correct sorted place
     public static int partition(int a[], int low, int high) {
         int pivot_item = a[low];
         int left = low;
