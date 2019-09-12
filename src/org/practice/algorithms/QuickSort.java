@@ -38,6 +38,7 @@ public class QuickSort {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(" " + arr[i]);
         }
+        System.out.print("Test push");
     }
 
     public static void main(String[] args) {
